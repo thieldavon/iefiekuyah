@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aakikae.joeltest.live/sitemap.xml
